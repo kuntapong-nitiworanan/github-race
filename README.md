@@ -1,5 +1,5 @@
 # Github Race
-Commit more, Push more, Review code more !!
+Commit more, Push more, Review code more !
 
 
 What is it? 
