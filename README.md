@@ -1,5 +1,4 @@
 # Github Race
-# github-race
 Commit more, Push more, Review code more !!
 
 
